@@ -1,5 +1,8 @@
 # 여기는 한글 프로젝트 설명 
 
+한국어 | [English]
+(https://github.com/SUNGPYOHONG/test2/blob/master/README-EN.md)
+
 아주 멋진
 
 ## 두번째 제목
